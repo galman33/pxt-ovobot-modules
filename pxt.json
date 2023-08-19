@@ -5,13 +5,18 @@
         "device": "*"
     },
     "files": [
-        "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "defaultstrip.ts",
+        "extsensor.ts",
+        "lightext.ts",
+        "neopixel.ts",
+        "transitions.ts",
+        "animations.jres",
+        "color.ts",
+        "colorbuffer.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "1.12.35",
         "targetId": "arcade"
